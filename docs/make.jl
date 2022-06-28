@@ -20,5 +20,5 @@ makedocs(;
 )
 
 deploydocs(
-    repo = "github.com/white-alistair/Lorenz.jl.git",
+    repo = "github.com/DanielJonathanPals/ComplGinzLandEq.jl.git",
 )
