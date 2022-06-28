@@ -1,5 +1,9 @@
 module ComplGinzLandEq
 
-# Write your package code here.
+    include("fcts.jl")
+    include("structs.jl")
+    export GinzLandDemo
+    export animateSol
+    export GinzLand
 
 end

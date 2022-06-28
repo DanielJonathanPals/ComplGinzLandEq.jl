@@ -2,8 +2,13 @@
 CurrentModule = ComplGinzLandEq
 ```
 
-# ComplGinzLandEq
+# Functions and Structs
 
 Documentation for [ComplGinzLandEq](https://github.com/DanielJonathanPals/ComplGinzLandEq.jl).
 
-This is the documentation for the Complex Ginzburg Landau Equation.
+```@index
+```
+
+```@autodocs
+Modules = [ComplGinzLandEq]
+```
