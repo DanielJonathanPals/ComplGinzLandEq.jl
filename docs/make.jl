@@ -18,3 +18,7 @@ makedocs(;
         "Functions" => "function.md"
     ],
 )
+
+deploydocs(
+    repo = "github.com/white-alistair/Lorenz.jl.git",
+)
